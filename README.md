@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name's Davi T 👋
+    Olá, meu nome é Davi T
 
 <!--
 **Edabc1/Edabc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
