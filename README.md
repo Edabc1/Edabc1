@@ -1,17 +1,43 @@
-### Hi there, my name's Davi T 👋
-    Olá, meu nome é Davi T
+# ✌ __*Davi T*__
+---
+## Clique [aqui](https://github.com/Edabc1) para acessar meu GitHub :computer:
+---
+### Hi, my name's Davi T 
+### Já estudo Portugol Studio
+https://github.com/ikatyang/emoji-cehat-sheet
+---
+Lista de aprendizagem:
 
-<!--
-**Edabc1/Edabc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [x] GitHub
+- [ ] Markdown
+- [ ] VSCode
+- [ ] HTML
+- [ ] CSS
+- [ ] Javascript
+---
+Cod|Descrição|Versão|Data
+---:|---:|:---:|---
+1| Tarefa|Digitar|2.0|22/09/22
+---
+Teste código
+```
+rieireiru euyeue
+   hfiefj 
+   ifujdigfij ij
+```
 
-Here are some ideas to get you started:
+>*Citação* 
+> Teste citação <https://github.com/Edabc1> kkk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+     * [Pre Requisitos](#pre-requisitos)
+     * [Local files](#local-files)
+     * [Multiple files](#multiple-files)
+  * [Tests](#testes)
+  <!--te-->
+
+![imagem](https://user-images.githubusercontent.com/111393580/191788236-f5509adc-241a-40ad-b04c-6cb7fc0773ab.jpg)
