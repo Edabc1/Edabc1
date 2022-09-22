@@ -6,15 +6,22 @@
 ### Já estudo Portugol Studio
 https://github.com/ikatyang/emoji-cehat-sheet
 ---
-Lista de aprendizagem:
+Utilizo GitHub para:
 
-- [x] GitHub
-- [ ] Markdown
-- [ ] VSCode
-- [ ] HTML
-- [ ] CSS
-- [ ] Javascript
+- [x] Pesquisa
+- [x] Encontrar códigos interessantes
+- [x] FNF
+- [ ] Estudar sobre
 ---
+
+
+
+
+
+
+
+## Abaixo, coisas aleatórias que aprendi no GitHub: 
+
 Cod|Descrição|Versão|Data
 ---:|---:|:---:|---
 1| Tarefa|Digitar|2.0|22/09/22
